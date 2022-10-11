@@ -1,3 +1,8 @@
+Upd: Submited at http://immunefi. Anwer from Bastion team:
+>Impermanent loss is a well known risk when providing liquidity for AMMs. Liquidity providers are compensated with liquidity mining rewards and take a share of the fees for that risk. And given how slow the cToken exchange rate changes, we think it is enough to mitigate any losses and make it profitable to provide liquidity for the stableswap.
+
+
+
 # Bastion bug proof of concept for immunefi
 
 Usage:
